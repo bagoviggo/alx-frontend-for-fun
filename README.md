@@ -1,15 +1,36 @@
-# Markdown to HTML
-## Description
-Markdown is awesome! All your README.md are made in Markdown, but do you know how GitHub are rendering them?
+## Resources
 
-It’s time to code a Markdown to HTML!
+**Read or watch**:
+
+-   [Sass Basics](https://intranet.alxswe.com/rltoken/kLRkCzW0Yvkj0H6u0AxBVg "Sass Basics")
+-   [Sass flow control directives: @if, @for, @each and @while](https://intranet.alxswe.com/rltoken/yQhZfQxQtH5dUc3iiTfjMQ "Sass flow control directives: @if, @for, @each and @while")
+-   [Sass references](https://intranet.alxswe.com/rltoken/Pq23qrLxlxGpiintmVQ4zg "Sass references")
+
+## Learning Objectives
+
+At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/3coLGsswORvavemjmpMIBQ "explain to anyone"), **without the help of Google**:
+
+### General
+
+-   What Sass means
+-   How to write Sass & Scss file
+-   What is the difference between Sass and Scss
+-   What is the Sass preprocessing
+-   How to declare a variable
+-   How to use nested definition
+-   How to import a Sass file
+-   How to use mixins
+-   How to declare extend/inheritance styles
+-   How to manipulate operators
 
 ## Requirements
-- All files will be interpreted/compiled on Ubuntu 18.04 LTS using python3 (version 3.7 or higher)
-- The first line of all your files should be exactly #!/usr/bin/python3
-- A README.md file, at the root of the folder of the project, is mandatory
-Your code should use the PEP 8 style (version 1.7.*)
-- All  files must be executable
-- All  modules should be documented: python3 -c 'print(__import__("my_module").__doc__)'
-- code should not be executed when imported (by using if __name__ == "__main__":)
 
+### General
+
+-   Allowed editors: `vi`, `vim`, `emacs`
+-   All your files will be executed on Ubuntu 18.04 LTS using `Sass 3.7.4` (or higher)
+-   All your files should end with a new line
+-   All your Scss files should have a comment at the beginning (i.e. syntax above)
+-   All your files should start by a comment describing the task
+-   A `README.md` file, at the root of the folder of the project, is mandatory
+-   The length of your files will be tested using `wc`
